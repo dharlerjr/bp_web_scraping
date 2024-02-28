@@ -6,6 +6,6 @@ Founded in 2018 by Activision, The Call of Duty League (CDL) is the premier prof
 
 ## Results
 
-![CDL DF]()
+![CDL DF](https://github.com/dharlerjr/bpl_web_scraping/blob/main/cdl_df.PNG)
 
 For our analysis, we scraped all CDL match data for the current season, which began December 8th, 2023. As you can see in the image above, our dataset containts 2,440 entries, where each entry corresponds to a single player's performance during a single map of a single match from the 2023 season. Each entry also contains the corresponding map and match results, as well as the date of the match, match ID, and player's team. All in all, our mission to gather CDL data into one tidy dataset was a success, thanks to our program and breakingpoint.gg.
